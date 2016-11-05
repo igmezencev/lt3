@@ -40,7 +40,7 @@ public class Main extends javax.swing.JFrame {
     @SuppressWarnings("unchecked")
     
     //Инициализируем компоненты формы
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">                          
+                        
     private void initComponents() {
 
         jScrollPane1 = new javax.swing.JScrollPane();
